@@ -17,18 +17,15 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  name:              Nancy Chauhan
+  email:             nancychn1@gmail.com
 
 # Custom vars
 version:             2.0.1
 github:
-  repo:              https://github.com/jamigibbs/portfolio
+  repo:              https://github.com/Nancy-Chauhan/nancy-chauhan.github.io
 google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+
 
 # Gems
 plugins:
